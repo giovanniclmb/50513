@@ -1,0 +1,5 @@
+pila OtraPila {
+  crear(["hola", "mundo"])!
+  empujar("test")!
+  sacar()!
+}

@@ -1,0 +1,4 @@
+pilaa PilaErronea {
+  crear([10, 20])!
+  empujar(30)!
+}
