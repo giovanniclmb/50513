@@ -96,7 +96,7 @@ Token	Función
 -sacar:	Quita el último valor
 -mirar:	Muestra el valor tope
 
-5- 🧱 Otros símbolos importantes
+5- Otros símbolos importantes
 Símbolo	Significado
 { }	Delimita el bloque de comandos
 [ ]	Define una lista de valores
